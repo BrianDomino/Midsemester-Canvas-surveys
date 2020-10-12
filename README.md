@@ -1,4 +1,4 @@
-# midsemester-Canvas-surveys
+# Midsemester-Canvas-surveys
 Light cleaning and processing of CSV files of midsemester Canvas surveys.
 
 I use Instructure's Canvas LMS for my classes. Canvas has an anonymous survey feature that I use to see how my students are doing and see if they have any feedback to improve the course. The survey questions can be either fixed response (e.g., multiple choice) or open-ended. While Canvas presents a helpful analysis of the responses to the fixed-response questions, the only way to access the responses to the open-ended questions is to download a CSV file of all of the responses plus some other information.
